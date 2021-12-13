@@ -1,0 +1,15 @@
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\bin\Debug\net6.0\C# number 14.exe
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\bin\Debug\net6.0\C# number 14.deps.json
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\bin\Debug\net6.0\C# number 14.runtimeconfig.json
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\bin\Debug\net6.0\C# number 14.dll
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\bin\Debug\net6.0\ref\C# number 14.dll
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\bin\Debug\net6.0\C# number 14.pdb
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\C# number 14.csproj.AssemblyReference.cache
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\C# number 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\C# number 14.AssemblyInfoInputs.cache
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\C# number 14.AssemblyInfo.cs
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\C# number 14.csproj.CoreCompileInputs.cache
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\C# number 14.dll
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\ref\C# number 14.dll
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\C# number 14.pdb
+C:\Users\savit\Desktop\Тебя не трогает и ты не лезь)\code\C# number 14\obj\Debug\net6.0\C# number 14.genruntimeconfig.cache
